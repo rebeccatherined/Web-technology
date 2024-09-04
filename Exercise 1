@@ -1,0 +1,111 @@
+<html>
+    <head><title>World Map</title></head>
+<body bgColor="black">
+    <center>
+        <h1 style="color: gold;">WORLD MAP</h1>
+<p style="color: gold;">Click on any of the continents to read more about them</p>
+
+<img src="worldmap.jpeg" alt="World Map"  usemap="#continentmap" width="700" height="500">
+
+<map name="continentmap">
+  <area shape="poly" coords="317,256,337,221,367,234,393,234,411,286,424,289,409,322,409,356,380,409,356,309" alt="Africa" href="africa.html">
+  <area shape="poly" coords="332,153,387,96,419,110,505,59,625,103,563,155" alt="Asia" href="asia.html">
+  <area shape="poly" coords="347,179,402,212,430,204,450,173,459,99" alt="Europe" href="europe.html">
+  <area shape="poly" coords="70,103,225,35,236,177,169,267,73,94" alt="North America" href="northamerica.html">
+  <area shape="poly" coords="112,411,278,418,226,588,109,514,100,456" alt="South America" href="southamerica.html">
+  <area shape="poly" coords="533,365,546,361,563,345,572,354,583,357,592,374,598,383,590,411,577,413,563,398,541,402,535,385" alt="Australia" href="australia.html">
+</map>
+</center>
+
+</body>
+</html>
+
+
+
+africa.html
+<html>
+    <head><title>Africa</title></head>
+<body bgColor="black">
+    <center>
+        <h1 style="color: gold;">AFRICA</h1>
+        <img src ="africa.jpg" width="500" height="400"/>
+<p style="color: gold;"> Africa, the second-largest continent in the world, is a land of immense diversity and rich cultural heritage. Spanning across deserts, savannas, and rainforests, it is home to an astonishing variety of wildlife, from the iconic lions and elephants to the vibrant bird species. Africa is the birthplace of humanity, with a history that stretches back millions of years, and it boasts ancient civilizations such as Egypt, known for its majestic pyramids and profound contributions to art, science, and architecture. Today, Africa is a dynamic and rapidly changing continent, with bustling cities, growing economies, and a young, vibrant population that is shaping the future of the world. Despite facing challenges, Africa's spirit of resilience and innovation shines through, making it a continent of endless possibilities and boundless potential.</p>
+</center>
+</body>
+</html>
+
+
+australia.html
+<html>
+    <head><title>Australia</title></head>
+<body bgColor="black">
+    <center>
+        <h1 style="color: gold;">AUSTRALIA</h1>
+        <img src ="australia.jpg" width="500" height="400"/>
+<p style="color: gold;">Australia, the world’s sixth-largest country, is a land of diverse landscapes, rich cultures, and unique wildlife. Known for its vast outback, pristine beaches, and vibrant cities, Australia offers a blend of natural beauty and modern living. The Great Barrier Reef, the world’s largest coral reef system, showcases the country’s stunning marine life, while the iconic Sydney Opera House represents its thriving arts scene. Australia is also home to a rich Indigenous heritage, with the Aboriginal and Torres Strait Islander peoples having the oldest continuous cultures on Earth. From the bustling streets of Sydney and Melbourne to the serene wilderness of the Blue Mountains and the Great Victoria Desert, Australia is a country that captures the imagination with its beauty, history, and way of life.</p>
+</center>
+
+</body>
+</html>
+
+
+
+asia.html
+<html>
+    <head><title>Asia</title></head>
+<body bgColor="black">
+    <center>
+        <h1 style="color: gold;">ASIA</h1>
+        <img src ="asia.jpg" width="500" height="400"/>
+<p style="color: gold;"> Asia is the largest and most populous continent on Earth, spanning an immense geographical area from the Arctic in the north to the equator in the south. It is a land of stunning diversity, encompassing a vast array of climates, cultures, languages, and landscapes. From the towering peaks of the Himalayas to the bustling metropolises of Tokyo and Shanghai, Asia is a region where ancient traditions coexist with rapid modernization. It is home to many of the world’s oldest civilizations, including those of China, India, and Mesopotamia, and continues to be a global powerhouse in economics, technology, and culture. The continent's rich history, vibrant cultures, and breathtaking natural beauty make it a vital and fascinating part of the world.</p>
+</center>
+</body>
+</html>
+
+europe.html
+<html>
+    <head><title>Europe</title></head>
+<body bgColor="black">
+    <center>
+        <h1 style="color: gold;">EUROPE</h1>
+        <img src ="europe.jpg" width="500" height="400"/>
+<p style="color: gold;"> Europe is a continent rich in history, culture, and diversity. Spanning from the icy Arctic Circle in the north to the warm Mediterranean Sea in the south, it encompasses a wide range of climates and landscapes. Europe has been the birthplace of many of the world's great civilizations, from Ancient Greece and Rome to the Renaissance and the Enlightenment. Today, it is home to a tapestry of languages, traditions, and modern innovations. The continent is known for its iconic cities like Paris, London, and Rome, which blend historical grandeur with contemporary life. Europe’s influence extends globally, through its art, philosophy, science, and governance, making it a pivotal region in world affairs. Whether exploring its breathtaking natural scenery, like the Alps and the fjords of Norway, or delving into its vibrant cultural heritage, Europe offers a unique and enriching experience for all who visit.</p>
+</center>
+</body>
+</html>
+
+
+northamerica.html
+<html>
+    <head><title>North America</title></head>
+<body bgColor="black">
+    <center>
+        <h1 style="color: gold;">NORTH AMERICA</h1>
+        <img src ="northamerica.jpeg" width="500" height="400"/>
+<p style="color: gold;"> North America is a vast and diverse continent that spans from the Arctic in the north to the tropical regions of Central America. It is the third-largest continent by area and is home to a wide variety of landscapes, including towering mountain ranges like the Rockies, expansive plains, dense forests, and sprawling deserts. The continent is culturally rich, with a history shaped by the indigenous peoples who first inhabited the land, followed by waves of exploration, colonization, and immigration. Today, North America is a powerhouse of economic and political influence, with the United States, Canada, and Mexico being its largest countries. The continent is known for its dynamic cities, such as New York, Los Angeles, Toronto, and Mexico City, as well as its natural wonders like the Grand Canyon, Niagara Falls, and the vast wilderness areas that attract millions of visitors each year.</p>
+</center>
+</body>
+</html>
+
+southamerica.html
+<html>
+    <head><title>South America</title></head>
+<body bgColor="black">
+    <center>
+        <h1 style="color: gold;">SOUTH AMERICA</h1>
+        <img src ="southamerica.jpeg" width="500" height="400"/>
+<p style="color: gold;">South America is a diverse and vibrant continent known for its rich cultural 
+heritage, breathtaking landscapes, and ecological diversity. Home to the Amazon rainforest, the Andes
+ Mountains, and iconic landmarks like Machu Picchu, South America offers a unique blend of ancient 
+civilizations, such as the Incas, and modern, bustling cities like São Paulo and Buenos Aires. 
+The continent's history is marked by colonization, which has shaped its languages, predominantly 
+Spanish and Portuguese, and its cultural practices. Today, South America is a dynamic region, 
+celebrated for its music, dance, and culinary traditions, as well as its growing influence on global 
+economics and politics. </p>
+</center>
+</body>
+</html>
+
+
+
+
