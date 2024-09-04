@@ -1,0 +1,97 @@
+Inline css
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Inline CSS</title>
+
+</head>
+
+<body>
+    <p style="color:#009900; 
+              font-size:50px; 
+              font-style:italic; 
+              text-align:center;">
+        Good for nothing
+    </p>
+
+</body>
+
+</html>
+
+
+Internal css
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Internal CSS</title>
+    <style>
+        .main {
+            text-align: center;
+        }
+
+        .GFG {
+            color: #009900;
+            font-size: 50px;
+            font-weight: bold;
+        }
+
+        .geeks {
+            font-style: bold;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <div class="GFG">Hello</div>
+
+        <div class="geeks">
+            A computer science student
+        </div>
+    </div>
+</body>
+
+</html>
+
+External css
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>External CSS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="main">
+        <div class="GFG">Hello</div>
+
+        <div id="geeks">
+            A computer science student
+        </div>
+    </div>
+</body>
+
+</html>
+
+body {
+    background-color: powderblue;
+}
+
+.main {
+    text-align: center;
+}
+
+.GFG {
+    color: #009900;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#geeks {
+    font-style: bold;
+    font-size: 20px;
+}
